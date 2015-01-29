@@ -14,13 +14,13 @@ composer global require "fxp/composer-asset-plugin:1.0.0-beta4"
 And add
 
 ```
-"yiidoc/yii2-timeago": "dev-master",
+"sakhalin/yii2-widget-timeago": "dev-master",
 ```
 
 ## Usage
 
 ```
-<?= \yii\timeago\TimeAgo::widget(['timestamp' => $model->published_at]); ?>
+<?= \sakhalin\timeago\TimeAgo::widget(['timestamp' => $model->published_at]); ?>
 ```
 
 
