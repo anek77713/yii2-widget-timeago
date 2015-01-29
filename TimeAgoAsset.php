@@ -6,7 +6,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace yii\timeago;
+namespace sakhalin\timeago;
 
 /**
  * @author Nghia Nguyen <yiidevelop@hotmail.com>
